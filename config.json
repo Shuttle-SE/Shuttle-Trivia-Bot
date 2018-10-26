@@ -1,5 +1,5 @@
 {
-  "token": "Shuttle",
+  "token": "trivia",
   "bots.discord.pw-token": "optionaltokenhere",
   "discordbots.org-token": "optionaltokenhere",
   "botlist.space-token": "optionaltokenhere",
@@ -8,8 +8,8 @@
   "listcord.com-token": "optionaltokenhere",
   "discordbots.group-token": "optionaltokenhere",
 
-  "disable-admin-commands": false,
-  "use-reactions": false,
+  "disable-admin-commands": true,
+  "use-reactions": true,
   "prefix": "trivia ",
   "hide-difficulty": false,
   "auto-delete-msgs": true,
