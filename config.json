@@ -8,14 +8,14 @@
   "listcord.com-token": "optionaltokenhere",
   "discordbots.group-token": "optionaltokenhere",
 
-  "disable-admin-commands": true,
+  "disable-admin-commands": false,
   "use-reactions": true,
   "prefix": "trivia ",
   "hide-difficulty": false,
   "auto-delete-msgs": true,
   "round-length": 15000,
   "round-timeout": 3500,
-  "rounds-end-after": 2,
+  "rounds-end-after": 1,
   "disable-score-display": false,
   "score-value": { "easy": 100, "medium": 200, "hard": 300 },
 
